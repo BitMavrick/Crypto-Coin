@@ -453,6 +453,3 @@
     <!-- FAQs Start -->
 </template>
 
-<script>
-
-</script>
