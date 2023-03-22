@@ -1,17 +1,4 @@
 <template>
-  <master> </master>
-  
+  <RouterView />
 </template>
-
-<script>
-
-import master from './views/Master'
-
-export default {
-  components: {
-    master
-  }
-}
-
-</script>
 
